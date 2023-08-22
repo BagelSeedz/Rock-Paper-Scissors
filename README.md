@@ -8,7 +8,7 @@ As the echo of each triumphant clash fades, the ebb and flow of the ages persist
 
 ## About the Project
 
-I started this project after coming across a basic rock-paper-scissors simulator and becoming entrhalled in it's beauty
+I started this project after coming across a basic rock-paper-scissors simulator and becoming entrhalled in it's beauty.
 
 Context: https://twitter.com/danulmao/status/1361909308921946114
 
