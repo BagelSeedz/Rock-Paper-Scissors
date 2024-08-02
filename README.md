@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors
+# 3-D Rock-Paper-Scissors
 ## Introduction
 In the realm where decisions shape destinies, where ancient conflicts find respite in the hands of mere mortals, there exists a timeless contest known as "Rock, Paper, Scissors." A dance of fate, a struggle for supremacy, and a clash of elemental forces intertwine in this enigmatic battlefield.
 
